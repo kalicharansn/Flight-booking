@@ -23,6 +23,7 @@ public class Linkedhashmap {
 		System.out.println(empdetails.values());
 		System.out.println(empdetails.entrySet());
 		System.out.println(empdetails.containsKey(1));
+		System.out.println(empdetails.containsKey(1));
 	}
 
 }
