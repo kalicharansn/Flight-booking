@@ -12,6 +12,7 @@ public class Linkedhashmap {
 		empdetails.put(1, "Ashru");
 		empdetails.put(2, "Isha");
 		empdetails.put(3, "Faizi");
+		empdetails.put(4, "Business");
 		System.out.println(empdetails);
 
 		HashMap<Integer, String> empdetailsall = new HashMap<Integer, String>();
